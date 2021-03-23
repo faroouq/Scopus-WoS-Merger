@@ -2,8 +2,8 @@
 The repository consist of Python code that allow users to merger downloaded search results from Scopus and Wos.
 
 It contains two jupyter notebooks containing Python code:
--ScopusWoSComparator.ipynb, and
--dbCreator.ipynb
+- ScopusWoSComparator.ipynb, and
+- dbCreator.ipynb
 
 ## Scopus WoS Comparator (ScopusWoSComparator.ipynb)
 This code takes a co-located file of exported search results from Scopus and Web of Science (WoS). The files should be named "scopus_title_keyword_abstract_tab.csv" and "wos_full_record.csv", respectively.
