@@ -1,0 +1,120 @@
+label	replace by
+Intrusion Detection System	IDS
+Intrusion Detection Systems	IDS
+IDSs	IDS
+Internet of Things	IoT
+IDS system	IDS
+anomaly	IDS
+fog computing environment	fog environment
+energy consumption	energy
+wireless sensor networks	wsn
+wireless sensor network	wsn
+wsns	wsn
+distributed denial	ddos
+ddos attack	ddos
+fog device	fog node
+edge device	fog node
+edge	fog environment
+edge computing	fog computing
+fog	fog computing
+internet of things (iot)	IoT
+network security	security
+cloud computing	cloud
+intrusion detection system (ids)	IDS
+neural networks	ANN
+cybersecurity	security
+privacy by design	privacy
+architecture	network architecture
+proposed architectures	network architecture
+cyber security	security
+5g mobile communication systems	5g
+attack detection	IDS
+image edge detection	
+privacy preserving	privacy
+prevacy preservation	privacy
+next generation networks	networks
+internet of thing (iot)	IoT
+network intrusion detection	IDS
+wireless networks	networks
+cyber-attacks	attacks
+artificial neural networks	ann
+ad hoc networks	networks
+secure	security
+mobile edge computing	fog computing
+detection system	IDS
+user authentication scheme	authentication
+application programs	
+classification (of information)	information management
+approach	
+solution	
+scheme	
+order	
+information	information management
+work	
+development	
+number	
+intrusion detection	IDS
+intrusion-detection	IDS
+anomaly detection	IDS
+intrusion detection and prevention system	IDPS
+intrusion detection and prevention systems	IDPS
+abstract	
+communication protocols	communication protocol
+internet protocols	communication protocol
+matlab	
+multiple securities	security
+network based intrusion detection systems	IDPS
+network virtualization	virtualization
+optical network virtualization	virtualization
+optical line terminals	
+virtualization technologies	virtualization
+machine learning models	machine learning
+mercury (metal)	
+data privacy	privacy
+multi-access edge computing (mec)	fog computing
+metadata	
+normaliztion	
+object class	
+plug and play	
+best fit	
+detection	IDS
+things security	security
+access-control	access control
+cyber-security	security
+data security	security
+support vector machines	svm
+two-stage markov model	 markov model
+hidden markov model	markov model
+virtual honeypot device	honeypot
+machine learning approaches	machine learning
+mec	fog computing
+neural-network	ann
+attack	attacks
+cybernetic attacks	attacks
+design	
+network function virtualization	nfv
+recurrent neural networks	ann
+deep learning approach	deep learning
+management	
+prevention IDPS	
+privacy preservation	privacy
+things iot	IoT
+cloud security	security
+intrusion prevention system	IDPS
+distributed system	distributed systems
+information security	security
+intrusion detection scheme	IDS
+artificial intelligence (ai)	artificial intelligence
+multi-access edge computing	fog computing
+simulation	
+selection	
+system	
+analysis	
+security challenges	challenge
+signature	IDS
+model	
+software defined networking	sdn
+software-defined networking	sdn
+software defined networking (sdn)	sdn
+issues	challenges
+iot security	security
