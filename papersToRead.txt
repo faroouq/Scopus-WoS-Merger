@@ -1,0 +1,174 @@
+mobile edge computing, fog et al.: a survey and analysis of security threats and challenges
+security and privacy in fog computing: challenges
+a comprehensive study of security of internet-of-things
+a survey on emerging sdn and nfv security mechanisms for iot systems
+a cybersecurity framework to identify malicious edge device in fog computing and cloud-of-things environments
+fair resource allocation in an intrusion-detection system for edge computing ensuring the security of internet of things devices
+iot security framework for smart cyber infrastructures
+the security of big data in fog-enabled iot applications including blockchain: a survey
+edge computing-based security framework for big data analytics in vanets
+a survey on security and privacy of 5g technologies: potential solutions, recent advancements, and future directions
+sample selected extreme learning machine based intrusion detection in fog computing and mec
+providing secure and reliable communication for next generation networks in smart cities
+multistage signaling game-based optimal detection strategies for suppressing malware diffusion in fog-cloud-based iot networks
+anomaly behavior analysis for iot sensors
+a new threat intelligence scheme for safeguarding industry 4.0 systems
+a fog computing based system for selective forwarding detection in mobile wireless sensor networks
+a lightweight perceptron-based intrusion detection system for fog computing
+design of cognitive fog computing for intrusion detection in internet of things
+outlier dirichlet mixture mechanism: adversarial statistical learning for anomaly detection in the fog
+a fog-based privacy-preserving approach for distributed signature-based intrusion detection
+hypergraph clustering model-based association analysis of ddos attacks in fog computing intrusion detection system
+deep recurrent neural network for iot intrusion detection system
+a novel ad-hoc mobile edge cloud offering security services through intelligent resource-aware offloading
+rad-ei: a routing attack detection scheme for edge-based internet of things environment
+adaptive machine learning-based alarm reduction via edge computing for distributed intrusion detection systems
+towards the transversal detection of ddos network attacks in 5g multi-tenant overlay networks
+smart audio sensors in the internet of things edge for anomaly detection
+a novel differential game model-based intrusion response strategy in fog computing
+trustworthy and sustainable smart city services at the edge
+a fog computing based approach to ddos mitigation in iiot systems
+privacy-preserving vehicular rogue node detection scheme for fog computing
+a secure multi-tier mobile edge computing model for data processing offloading based on degree of trust
+intrusion detection system based on decision tree over big data in fog environment
+passban ids: an intelligent anomaly-based intrusion detection system for iot edge devices
+node state monitoring scheme in fog radio access networks for intrusion detection
+trust assessment for internet of things in multi-access edge computing
+intrusion detection in edge-of-things computing
+intrusion detection protocols in wireless sensor networks integrated to internet of things deployment: survey and future challenges
+identification of malicious edge devices in fog computing environments
+a survey of edge computing-based designs for iot security
+secure communication architecture for internet of things using smartphones and multi-access edge computing in environment monitoring
+a detection and prevention technique for man in the middle attack in fog computing
+glide: a game theory and data-driven mimicking linkage intrusion detection for edge computing networks
+sdnfv based threat monitoring and security framework for multi-access edge computing infrastructure
+a new resource allocation mechanism for security of mobile edge computing system
+impact: impersonation attack detection via edge computing using deep autoencoder and feature abstraction
+false data detection for fog and internet of things networks
+review of the d2d trusted cooperative mechanism in mobile edge computing
+anomaly behavior analysis for building automation systems
+semisupervised-learning-based security to detect and mitigate intrusions in iot network
+hybrid approach to intrusion detection in fog-based iot environments
+a distributed framework for detecting ddos attacks in smart contract-based blockchain-iot systems by leveraging fog computing
+intelligent secure ecosystem based on metaheuristic and functional link neural network for edge of things
+a collaborative security framework for software-defined wireless sensor networks
+cpss lr-ddos detection and defense in edge computing utilizing dcnn q-learning
+securing connection between it and ot: the fog intrusion detection system prospective
+secure, resilient, and self-configuring fog architecture for untrustworthy iot environments
+enhancing intelligent alarm reduction for distributed intrusion detection systems via edge computing
+correctional service canada's next generation command and control systems architecture
+caavi-rics model for observing the security of distributed iot and edge computing systems
+progressive researches on iot security: an exhaustive analysis from the perspective of protocols, vulnerabilities, and preemptive architectonics
+5g in the internet of things era: an overview on security and privacy challenges
+fuzzy logic and fog based secure architecture for internet of things (flfsiot)
+reinforcement learning empowered idps for vehicular networks in edge computing
+sdn/nfv security framework for fog-to-things computing infrastructure
+dynamic decision support for resource offloading in heterogeneous internet of things environments
+simulation of watchdog placement for cooperative anomaly detection in bluetooth mesh intrusion detection system
+phyalert: identity spoofing attack detection and prevention for a wireless edge network
+a systematic survey of industrial internet of things security: requirements and fog computing opportunities
+neural networks-aided insider attack detection for the average consensus algorithm
+covert channels-based stealth attacks in industry 4.0
+immune system for the internet of things using edge technologies
+fog-based distributed intrusion detection system against false metering attacks in smart grid
+high-performance, platform-independent ddos detection for iot ecosystems
+ip network anomaly detection using machine learning
+kingfisher: an industrial security framework based on variational autoencoders
+intrusion detection at the network edge: solutions, limitations, and future directions
+a survey on smart agriculture: development modes, technologies, and security and privacy challenges
+iot-fog-cloud model for anomaly detection using improved naive bayes and principal component analysis
+design and implementation of virtual security function based on multiple enclaves
+design and analysis of efficient neural intrusion detection for wireless sensor networks
+a distributed ensemble design based intrusion detection system using fog computing to protect the internet of things networks
+protedge: a few-shot ensemble learning approach to software-defined networking-assisted edge security
+an anomaly mitigation framework for iot using fog computing
+packet-based intrusion detection using bayesian topic models in mobile edge computing
+an edge ids based on biological immune principles for dynamic threat detection
+anomaly detection for industrial control system based on autoencoder neural network
+a home intrusion detection system using recycled edge devices and machine learning algorithm
+a novel distributed training on fog node in iot backbone networks for security
+quantum identity authentication protocol based on three-photon quantum error avoidance code in edge computing
+security analytics for real-time forecasting of cyberattacks
+designing efficient sinkhole attack detection mechanism in edge-based iot deployment
+machine learning meets communication networks: current trends and future challenges
+intrusion detection for wireless edge networks based on federated learning
+an empirical study on system level aspects of internet of things (iot)
+intrusion detection based on autoencoder and isolation forest in fog computing
+artificial neural networks-based intrusion detection system for internet of things fog nodes
+fog-based attack detection framework for internet of things using deep learning
+anomaly behavior analysis for fog nodes availability assurance in iot applications
+situation aware intrusion detection system design for industrial iot gateways
+pidiot: probabilistic intrusion detection for the internet-of-things
+from back-of-the-envelope to informed estimation of edge computing benefits in minutes using castnet
+intrusion detection classification model on an improved k-dependence bayesian network
+trustworthy computing in the dynamic iot cloud
+a framework for improving network resilience using sdn and fog nodes
+optimization scheme for intrusion detection scheme gbdt in edge computing center
+ad hoc vehicular fog enabling cooperative low-latency intrusion detection
+an ensemble learning and fog-cloud architecture-driven cyber-attack detection framework for iomt networks
+p2idf: a privacy-preserving based intrusion detection framework for software defined internet of things-fog (sdiot-fog)
+security and privacy issues in fog computing for healthcare 4.0
+identification of a malicious optical edge device in the sdn-based optical fog/cloud computing network
+a comparative study of techniques, datasets and performances for intrusion detection systems in iot
+iot-fog-cloud model for anomaly detection using improved naïve bayes and principal component analysis
+accelerated neural intrusion detection for wireless sensor networks
+privacy-preserving distributed ids using incremental learning for iot health systems
+early dga-based botnet identification: pushing detection to the edges
+collaborative intrusion detection system in cognitive smart city network (csc-net)
+video sensor security system in iot based on edge computing
+anomaly detection in distribution power system based on a condition monitoring vector and ultra- short demand forecasting
+dynamic orchestration of security services at fog nodes for 5g iot
+intrusion detection for smart home security based on data augmentation with edge computing
+evaluation of centralised vs distributed collaborative intrusion detection systems in multi-access edge computing
+security as a service platform leveraging multi-access edge computing infrastructure provisions
+sparseids: learning packet sampling with reinforcement learning
+federated mimic learning for privacy preserving intrusion detection
+virtual machine introspection for anomaly-based keylogger detection
+an electronic fence application in in mass rapid transit station scenarios with the edge-computing approach
+towards accelerating intrusion detection operations at the edge network using fpgas
+sensor cloud intrusion detection based on discrete optimization algorithm and machine learning [基于离散优化算法和机器学习的传感云入侵检测]
+a distributed deep learning system for web attack detection on edge devices
+internet of things for military applications
+an intrusion detection framework for energy constrained iot devices
+a criterion for ids deployment on iot edge nodes
+edge computing-based intrusion detection system for smart cities development using iot in urban areas
+performance analysis of machine learning algorithms in intrusion detection system: a review
+an intrusion detection scheme based on repeated game in smart home
+an optimal packet assignment algorithm for multi-level network intrusion detection systems
+machine learning-based intrusion detection system for smart city
+novel three-tier intrusion detection and prevention system in software defined network
+protédge: a few-shot ensemble learning approach to software-defined networking-assisted edge security
+federated wireless network intrusion detection
+home iot intrusion prevention strategy based on edge computing
+towards security-as-a-service in multi-access edge
+machine learning for security at the iot edge-a feasibility study
+real-time methodology for improving cyber security in internet of things using edge computing during attack threats
+fbad: fog-based attack detection for iot healthcare in smart cities
+dns/dane collision-based distributed and dynamic authentication for microservices in iot
+intrusion detection for iot devices based on rf fingerprinting using deep learning
+investigating characteristics of attacks on public cloud systems
+low-rate dos attack detection using psd based entropy and machine learning
+vproval: introspection based process validation for detecting malware in kvm-based cloud environment
+scalable poisoning against regression-type edge computing applications via an approximate optimization strategy
+detection of intruders in iot networks using interloper software based on authentication
+hmm-based secure framework for optical fog devices in the optical fog/cloud network
+fog-cloud distributed intrusion detection and cooperation
+intrusion detection in wireless sensor networks by an ensemble of artificial neural networks
+a lightweight ddos attack mitigation system within the isp domain utilising self-organizing map
+passive real-time asset inventory tracking and security monitoring of grid-edge devices
+a novel framework for collaborative intrusion detection for m2m networks
+a cloud/edge computing streaming system for network traffic monitoring and threat detection
+fog-assisted sdn controlled framework for enduring anomaly detection in an iot network
+securing cloud by mitigating insider data theft attacks with decoy technology using hadoop
+leveraging lstm networks for attack detection in fog-to-things communications
+2017 1st cyber security in networking conference, csnet 2017
+intrusion detection systems (ids) & future challenges in cloud based environment
+fog computing: security issues, solutions and robust practices
+a privacy-preserving framework for collaborative intrusion detection networks through fog computing
+"correctional service canada's ""next generation"" command and control systems architecture"
+new approaches to mitigation of malicious traffic in voip networks
+neural methods based on modified reputation rules for detection and identification of intrusion attacks in wireless ad hoc sensor networks
+securing ims against novel threats
+a resource efficient content inspection system for next generation smart nics
+eclipse attacks on overlay networks: threats and defenses
+development of an integrated solution for intrusion detection: a model based on data correlation
