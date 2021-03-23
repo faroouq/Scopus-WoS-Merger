@@ -27,7 +27,7 @@ Db Creator merges the two document and develop a Scopus-like csv file that can b
 ## Bibtex
 @misc{aliyu2021merger,  
     url={https://github.com/faroouq/Scopus-WoS-Merger},  
-    author={Frouq, Aliyu},  
+    author={Farouq, Aliyu},  
     year={2021},  
     month={January},  
     title={Scopus-WoS-Merger},  
