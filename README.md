@@ -21,3 +21,4 @@ Db Creator merges the two document and develop a Scopus-like csv file that can b
 - <b>thesaurus_fog.txt</b>: This is a file that tells VOSviewer plurality of words that mean the same thing and that they should be counded as one.
 - <b>idsPapersDataset.csv</b>: This file is a merged database, which contained both Scopus and WoS search results. It can be used directly with VOSviewer.
 - <b>papersToRead.txt</b>: This file contains a non-duplicate list of scientific papers from both Scopus and WOS.
+- - <b>bad.txt</b>: This file contains a list of titles the Python code think are not papers. This is common with Scopus search result, which list title of proceedings in search results.
