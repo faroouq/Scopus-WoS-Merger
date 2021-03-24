@@ -1,0 +1,160 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>
+1	5g	0.172	-0.2837	6	42	88	10
+6	access control	0.4763	-0.3313	6	19	27	4
+28	ambient intelligence	-0.3907	1.0131	4	8	10	2
+34	ann	-0.5175	0.2132	4	43	85	13
+36	anomaly behavior analysis	0.6101	-1.0564	10	9	12	2
+48	artificial intelligence	0.0842	0.381	1	23	38	5
+57	attacks	0.2504	0.2921	11	63	156	19
+60	authentication	0.1617	-0.2176	7	50	112	14
+66	automation	-0.2747	0.8318	4	26	38	5
+67	availability	0.2513	-0.5623	3	10	12	2
+70	benchmarking	0.0733	-0.2691	6	15	17	2
+72	big data	-0.1026	0.3831	1	37	54	5
+79	blockchain	0.7443	-0.5472	7	21	37	4
+81	botnet	-0.6424	-0.5826	8	17	23	4
+91	challenges	0.6707	-0.3012	7	26	62	7
+97	classification accuracy	-0.314	-0.0839	1	30	45	5
+104	cloud	0.3654	0.1189	1	91	269	35
+107	cloud computing environments	-0.1508	0.4885	1	12	14	2
+111	cloud environment	0.5564	0.1067	8	11	16	2
+112	cloud environments	0.2622	0.0428	8	18	25	3
+117	clustering algorithms	-0.9075	0.0974	2	14	20	3
+119	collaborate network	0.5694	0.1515	8	11	16	2
+130	communication	0.9582	-0.3378	5	33	62	6
+131	communication cost	-0.2696	0.2451	1	11	12	2
+136	communication protocol	1.1308	0.0032	5	19	22	3
+139	communications protocol	1.303	-0.011	5	15	22	2
+140	communications protocols	1.2631	0.0137	5	15	22	2
+149	computation offloading method	0.2547	-1.1119	10	3	3	2
+151	computation theory	-0.5548	0.3782	4	13	16	2
+158	computational resources	-0.6883	0.0854	4	19	25	3
+161	computer architecture	0.5429	-0.1922	5	32	47	5
+162	computer crime	-0.2388	0.548	4	63	128	15
+173	computing environments	0.4068	0.7186	9	19	29	3
+174	computing infrastructures	0.1963	0.0311	6	14	20	2
+178	computing platform	-0.2739	0.3842	6	19	23	2
+198	cost effectiveness	0.312	0.851	9	20	23	2
+203	crime	-0.5	-0.0624	2	20	24	2
+215	data analytics	-0.5205	-0.5823	10	13	18	3
+223	data models	-0.3207	-0.6502	3	14	15	2
+224	data processing	-0.5086	0.4405	4	10	11	2
+227	data sharing	-0.1252	0.2632	1	16	18	2
+234	ddos	-0.9789	-0.4416	2	21	45	8
+238	decision making	-0.5239	0.5389	4	16	20	3
+240	decision trees	-0.5993	-0.0116	2	23	37	4
+244	deep learning	-0.4878	-0.1668	2	38	86	12
+252	denial-of-service attack	-0.9788	-0.2584	2	22	36	4
+267	digital storage	-0.0146	0.5665	1	29	47	5
+276	distributed attack detection	-0.4304	0.1491	1	20	24	2
+277	distributed computer systems	0.4257	0.392	5	44	57	5
+279	distributed denial of service	-0.7542	-0.3119	2	14	17	2
+281	distributed denial of service attack	-1.1772	-0.2024	2	13	19	2
+285	distributed intrusion detection	-0.4311	-0.5422	3	13	14	2
+291	distributed systems	-0.2869	0.6327	4	18	21	3
+317	efficiency	-1.0402	-0.1694	2	17	23	3
+318	efficient	0.7712	-0.6788	7	14	19	2
+323	electric power transmission networks	-0.9245	0.3133	4	13	15	2
+339	energy utilization	-0.2263	0.1021	1	13	18	3
+342	ensemble learning	-0.7159	-0.1276	2	16	23	3
+347	entropy	-1.0712	0.0459	2	19	24	2
+348	environment	-0.4747	-0.8408	10	7	8	2
+369	feature extraction	-0.7754	-0.0448	2	31	55	6
+372	federated learning	-0.2307	-0.6646	3	15	19	3
+382	fog computing	0.0508	-0.0341	8	139	709	107
+384	fog environment	0.0534	0.0677	8	16	24	3
+386	fog node	1.1987	0.1177	5	24	41	4
+395	framework	0.8005	-0.3232	7	31	84	10
+406	genetic algorithm	-0.1646	-0.5327	3	10	13	2
+421	health care	-0.5937	-0.3294	2	14	16	2
+423	health-care	0.83	-0.847	7	9	11	2
+429	hidden markov models	0.5406	0.7815	9	11	19	2
+433	high dimensional data	-1.0038	0.0223	2	12	16	2
+435	honeypot	0.9599	0.4249	9	13	25	3
+436	honeypots	0.6158	0.7673	9	14	25	3
+445	idps	-0.1825	0.1768	6	40	62	6
+446	ids	-0.0525	-0.0465	3	157	905	146
+456	industrial internet of things	0.8418	-0.499	7	10	13	2
+462	industry 4.0	1.1482	0.2903	11	9	10	2
+469	information management	-0.1327	0.7263	1	33	48	5
+472	information-systems	1.0006	0.3327	9	12	19	2
+475	infrastructure as a service (iaas)	-0.1566	0.0336	6	23	36	3
+477	insider attack	0.0987	0.8744	9	15	17	2
+484	integrity	0.0519	-0.6589	3	13	14	2
+487	intelligent buildings	-0.4674	0.8314	4	18	24	3
+494	intelligent systems	-0.512	0.6465	4	30	47	5
+495	intelligent transportation systems	-0.7143	0.5148	4	21	29	3
+497	inter-domain operability	1.3011	-0.0632	5	15	22	2
+500	internet	0.3354	-0.6374	10	45	180	29
+508	interoperability	-0.0198	0.1712	6	16	24	2
+512	intrusion detection algorithms	-1.0324	0.1452	2	13	14	2
+517	intrusion detection models	-0.4669	0.5969	4	16	17	2
+522	intrusion prevention	-0.1245	-0.4372	3	16	21	3
+526	iot	-0.0664	-0.1379	1	129	561	84
+555	learning algorithms	-0.6579	0.2247	2	31	49	5
+559	learning systems	-0.6051	-0.1358	2	46	89	9
+565	lightweight	0.9666	-0.5391	7	10	13	2
+577	low-power	0.6313	-0.449	7	10	12	2
+586	machine learning	-0.5094	0.0368	2	75	220	29
+596	malicious activities	-0.306	0.0207	1	16	20	2
+598	malicious insider	0.106	0.9416	9	14	17	2
+601	malware	-0.1104	-0.3734	3	29	51	7
+606	markov model	0.7411	0.6163	9	20	38	4
+621	military applications	-0.9584	-0.6085	2	7	10	2
+627	mitigation	-0.6327	-0.6921	8	9	11	2
+644	modeling	1.3043	0.0424	5	15	22	2
+666	mutual information	-0.4599	-0.8893	10	9	12	2
+678	network architecture	0.3628	-0.0737	5	70	152	17
+696	network traffic	-0.6165	0.5378	4	13	15	3
+700	networks	0.3331	-0.1679	7	50	119	17
+704	next-generation	0.8382	-0.7388	7	14	21	2
+706	nfv	-0.0236	-0.264	8	27	48	7
+712	nonorthogonal multiple-access	0.7825	-0.7608	7	14	21	2
+713	normalization	1.3451	0.0164	5	15	22	2
+725	openflow	-0.5742	-0.5012	8	10	18	3
+735	optimization	-0.9011	-0.0936	2	17	28	5
+738	outlier detection	1.136	0.5178	11	8	10	2
+747	passive optical networks	0.5452	0.8282	9	11	19	2
+752	performance	-0.266	-0.1772	6	19	33	4
+753	performance analysis	-0.1296	0.6613	1	20	25	2
+754	performance evaluation	-0.3364	-0.3878	3	12	13	2
+779	prediction	-0.0614	-0.6512	3	9	10	2
+782	prevention	1.1524	0.3961	11	10	15	2
+784	principal component analysis	-0.0463	0.8085	1	15	21	2
+785	privacy	0.3078	-0.3427	7	67	215	28
+797	proprietary protocol	1.3431	-0.0356	5	15	22	2
+839	resilient	0.5647	-0.949	10	10	16	2
+840	resource allocation	0.7252	-0.0491	5	8	9	2
+844	resource management	0.1816	0.5683	1	15	20	2
+854	routers	-0.8323	-0.2501	2	11	12	2
+860	scalability	-0.3507	0.1701	6	21	25	2
+864	sdn	-0.3946	-0.0381	8	50	93	11
+870	security	0.0566	-0.0914	8	150	725	105
+871	security and privacy	-0.219	0.7017	1	21	25	2
+875	security as a services	0.1707	-0.0513	6	17	26	3
+881	security of data	0.1118	0.8057	9	15	17	2
+889	security sub-system	1.2598	-0.0377	5	15	22	2
+891	security threats	0.088	0.5549	1	20	28	3
+903	sensor networks	-0.4314	0.4935	4	18	20	2
+906	servers	-0.2545	-0.5884	3	16	20	4
+907	service	0.2147	-0.713	3	16	22	2
+910	service provisioning	-0.3476	0.2909	6	17	20	2
+917	signal detection	-1.1171	-0.0569	2	17	20	2
+930	smart city	-0.0097	0.3824	1	27	42	4
+932	smart grid	0.2448	0.6707	1	12	14	2
+963	storage as a service (staas)	0.0275	0.4926	1	22	26	2
+974	sustainable development	-0.8644	-0.544	2	8	9	2
+977	svm	-1.1062	-0.2668	2	18	23	3
+984	systems	0.2968	-0.7109	3	14	22	3
+985	task analysis	-0.3518	-0.5331	3	12	13	2
+992	things	0.0477	-0.8731	10	31	88	12
+1002	training	-0.0861	-0.7562	3	14	15	2
+1004	trust management	0.492	0.2798	8	12	19	3
+1008	ubiquitous computing	0.0969	0.2943	1	20	28	3
+1012	unsw-nb15 dataset	-0.0884	0.8448	1	15	21	2
+1023	vehicular networks	0.1493	0.6122	1	15	20	2
+1034	virtual machine	-0.0185	-0.4622	3	10	14	2
+1038	virtualization	0.2843	0.3932	6	26	52	5
+1054	wi-fi	-0.2377	0.2811	1	10	10	2
+1059	wireless communication	-0.1398	-0.6913	3	11	12	2
+1071	wsn	-0.39	-0.0944	4	39	70	10
