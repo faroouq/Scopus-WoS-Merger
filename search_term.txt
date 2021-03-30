@@ -1,1 +1,5 @@
+# Web of Science:
 TOPIC: ("intrusion Detection"  AND "fog computing") OR TOPIC: ("intrusion Detection"  AND "fog node") OR TOPIC: ("intrusion Detection"  AND "fog device") OR TOPIC: ("intrusion Detection"  AND "edge computing") OR TOPIC: ("intrusion Detection"  AND "edge node") OR TOPIC: ("intrusion Detection"  AND "edge device") 
+
+# Scopus:
+( TITLE-ABS-KEY ( "Intrusion Detection"  AND  "fog Computing" )  OR  TITLE-ABS-KEY ( "Intrusion Detection"  AND  "fog node" )  OR  TITLE-ABS-KEY ( "Intrusion Detection"  AND  "fog device" )  OR  TITLE-ABS-KEY ( "Intrusion Detection"  AND  "edge Computing" )  OR  TITLE-ABS-KEY ( "Intrusion Detection"  AND  "edge node" )  OR  TITLE-ABS-KEY ( "Intrusion Detection"  AND  "edge device" ) ) 
