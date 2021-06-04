@@ -1,5 +1,5 @@
 # Scopus-WoS-Merger
-The repository consist of Python code that allow users to merger downloaded search results from Scopus and Wos.
+The repository consist of Python codes that allow users to merge downloaded search results from Scopus and Wos. To ensure easy data processing of the datasets, both of them were changed from comma delimiter to a tab delimiter using LibreOffice Calc. 
 
 It contains two jupyter notebooks containing Python code:
 - ScopusWoSComparator.ipynb, and
